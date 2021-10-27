@@ -9,7 +9,7 @@
         state: 'Oregon',
     },
     contact: {
-        linkedIn: ['https://linkedin.com/in/gregory-gilliam',](https://linkedin.com/in/gregory-gilliam)
+        linkedIn: ['https://linkedin.com/in/gregory-gilliam'],
         email: 'gregory.gilliam@gmail.com'
     },
     movieAndBookPreferences: ['horror' 👻, 'sci-fi' 🚀, 'sci-fantasy' 🐲],
