@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-<pre>greg = {                          
-    full stack software developer: True ☑️,<br/>
-    location: 'Portland', 'OR',<br/>
-    movie and book preferences: 'horror' 👻, 'sci-fi' 🚀, 'sci-fantasy' 🐲,<br/>
-    weekends: 'friends' 👯, 'brunch' 🥞, 'dog walks' 🐕, 'camping' 🏕<br/>
+<pre>const gregGilliam = { 
+    name: 'Greg Gilliam',
+    pronouns: ['he', 'him'],
+    fullStackSoftwareDeveloper: true ☑️,
+    location: {
+        city: 'Portland',
+        state: 'Oregon',
+    },
+    contact: {
+        linkedIn: 'https://linkedin.com/in/gregory-gilliam',
+        email: 'gregory.gilliam@gmail.com'
+    },
+    movieAndBookPreferences: ['horror' 👻, 'sci-fi' 🚀, 'sci-fantasy' 🐲],
+    weekends: ['friends' 👯, 'brunch' 🥞, 'dog walks' 🐕, 'camping' 🏕]
     };
